@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
 - 🌱 I’m currently learning Software Engineering in Zhejiang University.
 - 📫 How to reach me: leoouyixin@126.com
+
+![](https://visitor-badge.laobi.icu/badge?page_id=QSCTech-Sange.visitor-badge)
 <!--
 **OE-Heart/OE-Heart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
