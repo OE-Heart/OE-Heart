@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Software Engineering in Zhejiang University.
 - 📫 How to reach me: leoouyixin@126.com
 
-![](https://visitor-badge.laobi.icu/badge?page_id=QSCTech-Sange.visitor-badge)
+![](https://visitor-badge.laobi.icu/badge?page_id=OE-Heart.visitor-badge)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OE-Heart&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
