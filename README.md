@@ -14,13 +14,6 @@
 
 [![OE-Heart's GitHub stats](https://github-readme-stats.vercel.app/api?username=OE-Heart&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OE-Heart&layout=compact&hide=html,css&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoouyixin&theme=tokyonight&layout=compact&custom_title=Weekly%20Development%20Breakdown)
 
-<!--START_SECTION:waka-->
-```text
-Java       1 hr 22 mins    █████████████░░░░░░░░░░░░   51.62 % 
-Makefile   31 mins         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-C          22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Assembly   21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-```
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OE-Heart&layout=compact&hide=html,css&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
