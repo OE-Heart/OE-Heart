@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Software Engineering** in **Zhejiang University**.
 - 🔭 My research interests now are **Deep Learning** and **Natural Language Processing**.
-- 📫 How to reach me: leoouyixin@126.com
+- 📫 How to reach me: ouyixin@zju.edu.cn
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=OE-Heart.visitor-badge)
 
