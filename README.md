@@ -14,6 +14,6 @@
 
 [![OE-Heart's GitHub stats](https://github-readme-stats.vercel.app/api?username=OE-Heart&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoouyixin&theme=tokyonight&layout=compact&custom_title=Weekly%20Development%20Breakdown)
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoouyixin&theme=tokyonight&layout=compact&custom_title=Weekly%20Development%20Breakdown) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OE-Heart&layout=compact&hide=html,css,jupyter%20notebook&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
