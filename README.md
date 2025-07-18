@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋 , I'm OE-Heart</h1>
+<h1 align="center">Hi there 👋 , I'm Yixin Ou (欧翌昕)</h1>
 
-- 🌱 I’m currently a third-year Master student in **Zhejiang University**.
-- 🔭 My research interests now are **LLM Agents** and **Machanistic Interpretability for LLM**.
+- 🌱 I’m currently a third-year Master student majored in Computer Science and Technology at **Zhejiang University**.
+- 🔭 My research interests now are **LLM Agents** and **Mechanistic Interpretability of LLMs**.
 - 📫 How to reach me: ouyixin@zju.edu.cn
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=OE-Heart.visitor-badge)
